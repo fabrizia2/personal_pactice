@@ -6,7 +6,7 @@ int main(void)
 
 	for (ren = 1; ren <= 3; ren++)
 	{
-		for (king = 1; king <= 17; king++)
+		for (king = 1; king <= 17; king++)l
 		{
 			if ((king >= 4-ren && king <= 5 + ren) || king >= 13 - ren && king <= 14 + ren)
 				printf("@");
