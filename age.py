@@ -5,7 +5,7 @@ def calculate_age(birth_year):
     age = today.year - birth_year
     return age
 
-birth_year = 2010
+birth_year = 2002
 age = calculate_age(birth_year)
 print("Age of person born in ", birth_year, " is: ", age)
 
