@@ -1,4 +1,6 @@
 ## INTRODUCTION TO JAVASCRIPT
+![The logo](https://pbs.twimg.com/media/Fq3FPVVXoAADhSL?format=jpg&name=900x900)
+
 # What is JAVASCRIPT?
 
 * JavaScript is a programming language that powers the dynamic behavior on most websites. Alongside HTML and CSS, it is a core technology that makes the web run.
