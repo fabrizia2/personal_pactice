@@ -12,6 +12,8 @@
 * Single line [//]
 * Multi-lines [/* */]
 
+# General
+
 * Data is printed, or logged, to the console, a panel that displays messages, with console.log().
 * We can write single-line comments with // and multi-line comments between /* and */.
 * There are 7 fundamental data types in JavaScript: strings, numbers, booleans, null, undefined, symbol, and object.
